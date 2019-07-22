@@ -11,16 +11,19 @@ A the end of the day, ths project brings ease and reliability on top of a beauti
 ```javascript
 // Here are the functions you can call to calculate your inputs X and Y
 add: function (x, y) {
-    return x + y;
-},
-substract: function (x, y) {
-    return x - y;
-},
+    return math.add(x,y);
+}
+subtract: function (x, y) {
+    return math.subtract(x,y);
+}
 multiply: function (x, y) {
-    return x * y;
-},
+    return math.multiply(x,y);
+}
 divide: function (x, y) {
-    return x / y;
+    return math.divide(x,y);
+}
+abs: function (x) {
+    return math.abs(x);
 }
 ```
 
