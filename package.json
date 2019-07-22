@@ -1,0 +1,20 @@
+{
+  "name": "thenodejscalc",
+  "version": "0.0.1",
+  "description": "The NodeJS Calculator library is a school project to learn basic *`Git`* skills while offering a new solution to add Calculus to your Node project.",
+  "main": "calc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charafzellou/thenodejscalc.git"
+  },
+  "keywords": [],
+  "author": "Charaf ZELLOU",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/charafzellou/thenodejscalc/issues"
+  },
+  "homepage": "https://github.com/charafzellou/thenodejscalc#readme"
+}
