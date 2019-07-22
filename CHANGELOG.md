@@ -19,17 +19,14 @@ and this project may *(or may not?)* adhere to [Semantic Versioning](https://sem
 - `calc.js` file now includes `abs()` function.
 - `test.js` file now includes `abs()` function.
 
-
 ## `[0.1.0]` - 22-07-2019
 ### Added
-**- `package.json` following the `npm init -y` command.**
-- `CHANGELOG.md` file to include proper change tracking.
+**- `math.js` library.**
+### Updated
 - `index.html` for future test use.
 - `calc.js` file to include main module functions.
 - `test.js` file for testing purposes.
-### Updated
-- `README.md` file to include a proper description of the repository.
-- `.gitignore` to include VSCode and Node accuracy via [GitIgnore.io](https://gitignore.io/).
+### WARNING : Function Subtract() has been wrongly named as Substract(). *Hotfix coming soon!* 
 
 ## `[0.0.0]` - 22-07-2019
 ### Added
