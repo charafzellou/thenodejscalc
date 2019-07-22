@@ -12,5 +12,8 @@ module.exports = {
     },
     divide: function (x, y) {
         return math.divide(x,y);
+    },
+    abs: function (x) {
+        return math.abs(x);
     }
 }

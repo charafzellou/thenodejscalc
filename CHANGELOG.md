@@ -5,7 +5,21 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project may *(or may not?)* adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 # **TheNodeJS Calc** - CHANGES SUMMARY
-## `[0.0.2]` - 22-07-2019
+## `[0.2.0]` - 22-07-2019
+### Added
+**- `math.js` library.**
+### Updated
+- `calc.js` file to include new `Math.js` library.
+- `test.js` file for the new `Math.js` functions.
+### WARNING : Function Subtract() has been wrongly named as Substract(). *Hotfix is v0.1.0-1!* 
+
+## `[0.1.0-1]` - 22-07-2019
+*### HOTFIX for [0.1.0]*
+### Updated
+- `calc.js` file now includes `abs()` function.
+- `test.js` file now includes `abs()` function.
+
+## `[0.1.0]` - 22-07-2019
 ### Added
 **- `math.js` library.**
 ### Updated
@@ -14,17 +28,6 @@ and this project may *(or may not?)* adhere to [Semantic Versioning](https://sem
 - `test.js` file for testing purposes.
 ### WARNING : Function Subtract() has been wrongly named as Substract(). *Hotfix coming soon!* 
 
-## `[0.0.1]` - 22-07-2019
-### Added
-**- `package.json` following the `npm init -y` command.**
-- `CHANGELOG.md` file to include proper change tracking.
-- `index.html` for future test use.
-- `calc.js` file to include main module functions.
-- `test.js` file for testing purposes.
-### Updated
-- `README.md` file to include a proper description of the repository.
-- `.gitignore` to include VSCode and Node accuracy via [GitIgnore.io](https://gitignore.io/).
-
 ## `[0.0.0]` - 22-07-2019
 ### Added
 - `README.md` file.
@@ -32,5 +35,7 @@ and this project may *(or may not?)* adhere to [Semantic Versioning](https://sem
 
 # **TheNodeJS Calc** - TAGS SUMMARY
 ## Released tags:
-`[0.0.1]`: https://github.com/charafzellou/thenodejscalc/releases/tag/v0.0.1
-`[0.0.1]`: https://github.com/charafzellou/thenodejscalc/releases/tag/v0.0.0 - Initial Commit
+`[0.2.0]`: https://github.com/charafzellou/thenodejscalc/releases/tag/v0.2.0
+*`[0.1.0-1]`: https://github.com/charafzellou/thenodejscalc/releases/tag/v0.1.0-1*
+`[0.1.0]`: https://github.com/charafzellou/thenodejscalc/releases/tag/v0.1.0
+`[0.0.0]`: https://github.com/charafzellou/thenodejscalc/releases/tag/v0.0.0 - Initial Commit

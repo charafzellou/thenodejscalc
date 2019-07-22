@@ -13,3 +13,6 @@ console.log('Multiply() result: ', resultMultiply);
 
 var resultDivide = calc.divide(12,3);
 console.log('Divide() result: ', resultDivide);
+
+var resultAbs = calc.abs(-5);
+console.log('Abs() input was (-5), result is: ', resultAbs);
