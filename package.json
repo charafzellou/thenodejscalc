@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/charafzellou/thenodejscalc/issues"
   },
-  "homepage": "https://github.com/charafzellou/thenodejscalc#readme"
+  "homepage": "https://github.com/charafzellou/thenodejscalc#readme",
+  "dependencies": {
+    "mathjs": "^6.0.3"
+  }
 }
