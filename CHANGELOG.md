@@ -5,6 +5,15 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project may *(or may not?)* adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 # **TheNodeJS Calc** - CHANGES SUMMARY
+## `[0.0.2]` - 22-07-2019
+### Added
+**- `math.js` library.**
+### Updated
+- `index.html` for future test use.
+- `calc.js` file to include main module functions.
+- `test.js` file for testing purposes.
+### WARNING : Function Subtract() has been wrongly named as Substract(). *Hotfix coming soon!* 
+
 ## `[0.0.1]` - 22-07-2019
 ### Added
 **- `package.json` following the `npm init -y` command.**
